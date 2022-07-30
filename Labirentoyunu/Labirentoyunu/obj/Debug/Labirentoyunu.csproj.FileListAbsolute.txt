@@ -1,0 +1,11 @@
+C:\Users\niyaz\source\repos\Labirentoyunu\Labirentoyunu\bin\Debug\Labirentoyunu.exe.config
+C:\Users\niyaz\source\repos\Labirentoyunu\Labirentoyunu\bin\Debug\Labirentoyunu.exe
+C:\Users\niyaz\source\repos\Labirentoyunu\Labirentoyunu\bin\Debug\Labirentoyunu.pdb
+C:\Users\niyaz\source\repos\Labirentoyunu\Labirentoyunu\obj\Debug\Labirentoyunu.csproj.AssemblyReference.cache
+C:\Users\niyaz\source\repos\Labirentoyunu\Labirentoyunu\obj\Debug\Labirentoyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\niyaz\source\repos\Labirentoyunu\Labirentoyunu\obj\Debug\Labirentoyunu.Form1.resources
+C:\Users\niyaz\source\repos\Labirentoyunu\Labirentoyunu\obj\Debug\Labirentoyunu.Properties.Resources.resources
+C:\Users\niyaz\source\repos\Labirentoyunu\Labirentoyunu\obj\Debug\Labirentoyunu.csproj.GenerateResource.cache
+C:\Users\niyaz\source\repos\Labirentoyunu\Labirentoyunu\obj\Debug\Labirentoyunu.csproj.CoreCompileInputs.cache
+C:\Users\niyaz\source\repos\Labirentoyunu\Labirentoyunu\obj\Debug\Labirentoyunu.exe
+C:\Users\niyaz\source\repos\Labirentoyunu\Labirentoyunu\obj\Debug\Labirentoyunu.pdb
